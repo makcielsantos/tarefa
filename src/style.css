@@ -16,7 +16,7 @@ footer {
 
 
 #apresentacao {
-    background: url('../assets/img/desk-coworking.jpg') no-repeat;
+    background: url('src/assets/img/desk-coworking.jpg') no-repeat;
     background-position: 75% 75%;
     color: white;
     height: 70%;
